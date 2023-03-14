@@ -1,17 +1,19 @@
 import React, { Component } from 'react';
+//import resume from "../pdf"
+import resume from "../"
 export default  class Resume extends Component {
   render() {
     let resumeData = this.props.resumeData;
     return (
       <section id="resume">
-
          <div className="row education">
-
             <div className="three columns header-col">
-               <h1><span>Education</span></h1>
+               <h1><span>Experience</span></h1>
             </div>
 
             <div className="nine columns main-col">
+            <a href="../pdf/2021WebDevelopmentResume.pdf" download="Harry">Download</a>
+            <p>Download Anna's Resume <a><i className="fa fa-file"></i></a></p>
               {
                 resumeData.education && resumeData.education.map((item)=>{
                   return(
