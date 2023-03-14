@@ -4,7 +4,6 @@ let resumeData = {
    // "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Anna Hickey Fotis",
     "linkedinId":"Your LinkedIn Id",
-    //"skypeid": "Your skypeid",
     "roleDescription": 'An enthusiastic, collaborative Full Stack Developer, crafting purposefully designed, meticulously crafted, and universally accessible web pages and applications.',
     "socialLinks":[
         {
@@ -26,49 +25,86 @@ let resumeData = {
     "aboutme":"Hello! I am a full stack developer based in Minneapolis, MN. An enthusiastic, collaborative designer and developer, my consistent goal is to craft one-of-a-kind, user-friendly deployments with a laser-like focus on accessibility, function, and design unity across multiple user platforms. I believe collaborattion is they key to success, and am skilled in React, JavaScript, TypeScript, HTML, CSS, Node.js, and Airtable to name a few. When not at my code editor, you can find me on stages and screens around Minneapolis as a theatrical and commercial actress and teaching artist.",
     "email":"annahickeyfotis@gmail.com",
     "phone":"(952) 239 9980",
-    "education":[
-      {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
-      },
-      {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
-      }
-    ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"DMC Global Inc",
+        "specialization":"Full Stack Developer",
+        "MonthOfStarting":"Jan",
+        "YearOfStarting":"2022",
+        "MonthOfLeaving":"Mar",
+        "YearOfLeaving":"2023",
+        "Achievements":"Developer and Quality Engineer. Utilized skill in React, TypeScript, CSS, Salesforce, and Ionic to create and maintain complex technological infrastructure and functionality of complex customer portals and quote calculation tools according to business standards."
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Freelance Web Developer",
+        "specialization":"Contract",
+        "MonthOfStarting":"May",
+        "YearOfStarting":"2021",
+        "MonthOfLeaving":"Present",
+        "Achievements":"Employed critical thinking, respect, and equity to collaborate with clients to architect UI enhancements and advanced application functionality while maintaining brand integrity."
       }
     ],
-    "skillsDescription":"Your skills here",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillName":"HTML5",
+        "skillIcon":"images/skills/html.png"
       },
       {
-        "skillname":"CSS"
+        "skillName":"CSS",
+        "skillIcon":"images/skills/CSS.png"
       },
       {
-        "skillname":"Reactjs"
-      }
+        "skillName":"JavaScript",
+        "skillIcon":"images/skills/js.png"
+      },
+      {
+        "skillName":"Reactjs",
+        "skillIcon":"images/skills/react.png"
+      },
+      {
+        "skillName":"TypeScript",
+        "skillIcon":"images/skills/typescript.png"
+      },
+      {
+        "skillName":"AJAX",
+        "skillIcon":"images/skills/AJAX.png"
+      },
+      {
+        "skillName":"Express",
+        "skillIcon":"images/skills/express.png"
+      },
+      {
+        "skillName":"Git",
+        "skillIcon":"images/skills/git.png"
+      },
+      {
+        "skillName":"jQuery",
+        "skillIcon":"images/skills/jquery.png"
+      },
+      {
+        "skillName":"MongoDB",
+        "skillIcon":"images/skills/mongodb.png"
+      },
+      {
+        "skillName":"MySQL",
+        "skillIcon":"images/skills/mysql.png"
+      },
+      {
+        "skillName":"Node",
+        "skillIcon":"images/skills/node.png"
+      },
+      {
+        "skillName":"VS Code",
+        "skillIcon":"images/skills/vscode.png"
+      },
+      {
+        "skillName":"Airtable",
+        "skillIcon":"images/skills/airtable.png"
+      },
+      {
+        "skillName":"Azure",
+        "skillIcon":"images/skills/azure.png"
+      },
     ],
     "portfolio":[
       {
