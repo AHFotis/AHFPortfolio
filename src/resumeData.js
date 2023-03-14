@@ -1,3 +1,5 @@
+import React from "react"
+
 let resumeData = {
    // "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Anna Hickey Fotis",
@@ -21,9 +23,9 @@ let resumeData = {
           "className":"fa fa-facebook"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"Hello! I am a full stack developer based in Minneapolis, MN. An enthusiastic, collaborative designer and developer, my consistent goal is to craft one-of-a-kind, user-friendly deployments with a laser-like focus on accessibility, function, and design unity across multiple user platforms. I believe collaborattion is they key to success, and am skilled in React, JavaScript, TypeScript, HTML, CSS, Node.js, and Airtable to name a few. When not at my code editor, you can find me on stages and screens around Minneapolis as a theatrical and commercial actress and teaching artist.",
+    "email":"annahickeyfotis@gmail.com",
+    "phone":"(952) 239 9980",
     "education":[
       {
         "UniversityName":"The LNM Insitute of Information Technology",

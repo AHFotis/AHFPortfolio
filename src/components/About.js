@@ -6,34 +6,21 @@ export default class About extends Component {
       <section id="about">
          <div className="row">
             <div className="three columns">
-
-               <img className="profile-pic"  src="images/profilepic.jpg" alt="" />
-
+               <img className="profile-pic"  src="images/Anna_Main.jpg" alt="" />
             </div>
-
             <div className="nine columns main-col">
-
-               <h2>About Me</h2>
-               <p>
-               {
-                 resumeData.aboutme
-               }
-               </p>
-
+               <h2>About Anna</h2>
+               <p className="about-text">{resumeData.aboutme}</p>
                <div className="row">
-
                   <div className="columns contact-details">
-
-                  <h2>Contact Details</h2>
-                  <p className="address">
-       						<span>{resumeData.name}</span>
-                     <br></br>
-       						   <span>
-                     {resumeData.address}
-                    </span>
-                    <br></br>
-                    <span>{resumeData.website}</span>
-       					   </p>
+                     <h2>Contact Details</h2>
+                     <p className="address about-text">
+                        <span>{resumeData.name}</span>
+                        <br></br>
+                        <span>{resumeData.email}</span>
+                        <br></br>
+                        <span>{resumeData.phone}</span>
+       					</p>
                   </div>
                </div>
             </div>
