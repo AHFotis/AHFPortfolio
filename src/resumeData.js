@@ -1,24 +1,24 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+   // "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Anna Hickey Fotis",
     "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": 'Hello! I am an enthusiastic, collaborative Full Stack Developer, with a consistent goal to craft one-of-a-kind, user-friendly deployments. Specialities include React, Javascript, TypeScript, CSS, and Airtable.  When not at my code editor, I am actress, specializing in comedy and musical theatre.',
+    //"skypeid": "Your skypeid",
+    "roleDescription": 'An enthusiastic, collaborative Full Stack Developer, crafting purposefully designed, meticulously crafted, and universally accessible web pages and applications.',
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/anna-hickey-fotis",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"http://github.com/AHFotis",
           "className":"fa fa-github"
         },
         {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
+          "name":"facebook",
+          "url":"https://www.facebook.com/profile.php?id=13957518",
+          "className":"fa fa-facebook"
         }
       ],
     "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
