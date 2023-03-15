@@ -108,34 +108,42 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Snuze",
+        "description":"Snuze is a tranquil React app, designed to meet the needs of users who want some extra help to fall asleep comfortably.",
+        "imgurl":"images/portfolio/snuze.png",
+        "projectLink":"https://github.com/AHFotis/Snueze"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Cup of Sugar",
+        "description":"A platform for good neighbors to be good neighbors",
+        "imgurl":"images/portfolio/cupOfSugar.png",
+        "projectLink":"https://github.com/AHFotis/Cup-of-Sugar"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"Google Book Worm",
+        "description":"A MERN book search and save.",  
+        "imgurl":"images/portfolio/book.png",
+        "projectLink":"https://github.com/AHFotis/GoogleBookWorm"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Employee Finder",
+        "description":"A React employee directory that allows the user to search an employee database",
+        "imgurl":"images/portfolio/employee.png",
+        "projectLink":"https://github.com/AHFotis/EmployeeFinder"
       }
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Anna is awesome to work with. Her animated sense of humor and grounded thought process combine to give her teams a positively productive environment in which to work, which is ideal for any situation. She consistently delivers on her commitments while going above and beyond to challenge her technical skillset.",
+        "name":"Kyle Kleven, Senior Analyst"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Anna is a hard working and creative developer with excellent communication and collaboration skills. The focus, positivity, and drive she brought to our team was paramount to our success.",
+        "name":"Amy Pastorius, Project Manager"
+      },
+      {
+        "description":"Anna demonstrated great leadership when planning and executing several high-quality web application projects. I would highly recommend her for opportunities to exhibit her skill set with technologies such as Git/Github, Bootstrap, React, Node, Express, MongoDB, MySql, as well as the deployment of software built on these stacks.",
+        "name":"Nathan Perfetti, Software Engineer and Educator"
       }
     ]
   }

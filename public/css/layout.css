@@ -403,8 +403,12 @@ ul#nav li.current a { color: #F06000; }
 	filter:alpha(opacity=100);
 }
 
+.item-img {
+   height: 150px;
+   width: 100%;
+}
 /* popup modal */
-.popup-modal {
+/* .popup-modal {
 	max-width: 550px;
 	background: #fff;
 	position: relative;
@@ -445,9 +449,11 @@ ul#nav li.current a { color: #F06000; }
    cursor: pointer;
 }
 .popup-modal a:hover {	color: #00CCCC; }
-.popup-modal a.popup-modal-dismiss { margin-left: 24px; }
+.popup-modal a.popup-modal-dismiss { margin-left: 24px; } */
 
-
+.subheader {
+   margin: 0 auto
+}
 /* fadein/fadeout effect for modal popup
 /* ------------------------------------------------------------------ */
 
