@@ -286,8 +286,8 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .skills-img {
-   width: 100px !important;
-   height: 100px !important;
+   width: 75px !important;
+   height: 75px !important;
    margin: 0 30px 0 30px;
 }
 
@@ -404,7 +404,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .item-img {
-   height: 150px;
+   height: 320px;
    width: 100%;
 }
 /* popup modal */
@@ -776,6 +776,18 @@ call-to-action .button {
 	color: #11ABB0;
 	font-size: 13px;
 }
+.contact-items {
+   color: white;
+   font-size: 15px;
+   margin-bottom: 0 !important;
+}
+.contact-detail {
+   font-size: 130% !important;
+   padding-right: 10px;
+}
+.phone-number {
+   color: #11ABB0;
+}
 #message-warning, #message-success {
    display: none;
 	background: #0F0F0F;
@@ -800,7 +812,7 @@ call-to-action .button {
 
 
 /* Twitter Feed */
-#twitter {
+/* #twitter {
    margin-top: 12px;
    padding: 0;
 }
@@ -815,7 +827,7 @@ call-to-action .button {
    font: 13px/36px 'opensans-regular', Sans-serif;
    color: #474747 !important;
    border: none;
-}
+} */
 
 
 /* ------------------------------------------------------------------ */
