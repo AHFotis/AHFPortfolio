@@ -1,4 +1,4 @@
-import React from "react"
+// https://github.com/rbhatia46/React-Portfolio
 
 let resumeData = {
   "name": "Anna Hickey Fotis",
