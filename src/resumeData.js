@@ -162,8 +162,8 @@ let resumeData = {
     },
     {
       "icon":"fa fa-linkedin contact-detail",
-      "link":"www.linkedin.com/in/anna-hickey-fotis",
-      "detail":"www.linkedin.com/in/anna-hickey-fotis",
+      "link":"https://www.linkedin.com/in/anna-hickey-fotis/",
+      "detail":"https://www.linkedin.com/in/anna-hickey-fotis/",
     }
   ]
 }

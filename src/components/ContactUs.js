@@ -10,12 +10,11 @@ export default class ContactUs extends Component {
             <h4>Let's Connect!</h4>
             <div className="row">
               <aside className="eigth columns footer-widgets">
-                
                   {resumeData.contact && resumeData.contact.map((item)=>{
                   return(
                     <p className="contact-items"> 
                       <i className={item.icon}/> 
-                      {item.link ? <a href={item.link}>{item.detail}</a> : <span className="phone-number">{item.detail}</span>}
+                      {item.link ? <a href={item.link} target="_blank">{item.detail}</a> : <span className="phone-number">{item.detail}</span>}
                     </p>
                   )})}
               </aside>

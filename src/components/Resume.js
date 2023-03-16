@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import resume from "../pdf/2021WebDevelopmentResume.pdf"
+import resume from "../pdf/AnnaHickeyFotisResume.pdf"
 
 
 export default  class Resume extends Component {
