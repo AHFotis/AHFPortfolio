@@ -284,7 +284,6 @@ hr { border: solid #E3E3E3; border-width: 1px 0 0; clear: both; margin: 11px 0 3
 
 
 /*  3. Links  ------------------------------------------------------- */
-
 a, a:visited {
    text-decoration: none;
    outline: 0;
@@ -313,9 +312,6 @@ ol ol, ol ul { margin: 6px 0 6px 30px; }
 ul ul li, ul ol li,
 ol ol li, ol ul li { margin-bottom: 6px; }
 li { line-height: 18px; margin-bottom: 12px; }
-/* ul.large li { } */
-/* li p { } */
-
 /* ---------------------------------------------------------------------
 /*  Stats Tab Markup
 
