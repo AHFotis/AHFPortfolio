@@ -7,6 +7,8 @@ Portfolio for Full Stack Developer Anna Hickey Fotis
 
 A React portfolio for Anna Hickey Fotis. Includes resume and portfolio. 
 
+![Portfolio](public/images/readme/app-shot.png)
+
 ## Technologies
 Technologies used: CSS, JavaScript, React, React-DOM, React-Scripts.
 
