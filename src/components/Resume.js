@@ -15,7 +15,7 @@ export default  class Resume extends Component {
               <div className="row item">
                 <div className="twelve columns">
                   <h3>Resume</h3>
-                  <p>
+                  <p className="resume-link">
                     <a href={resume} download>Download Anna's Resume</a>
                   </p>
                   {resumeData.work && resumeData.work.map((item) => {
