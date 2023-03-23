@@ -5,7 +5,9 @@ Portfolio for Full Stack Developer Anna Hickey Fotis
 
 ## Description
 
-A React portfolio for Anna Hickey Fotis. Includes resume and portfolio. Template free for others to use and adapt.
+A React portfolio for Anna Hickey Fotis. Includes resume and portfolio. 
+
+Click [here](https://ahfotis.github.io/AHFPortfolio/) to view the live application on Github Pages.
 
 ![Portfolio](public/images/app-shot.png)
 
